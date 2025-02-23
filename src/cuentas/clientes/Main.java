@@ -26,7 +26,7 @@ public class Main {
             System.out.println("El saldo actual es:"+ cuenta01.estado() );
         } catch (Exception e) {
             System.out.print("Fallo al ingresar");
-            
+            System.out.print("Fallo al ingresar");
         }
     }
 }
